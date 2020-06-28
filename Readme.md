@@ -10,3 +10,6 @@
 8. OOPS
 9. Database
 10. Web Application Framework
+
+# Practice exercise
+https://www.w3resource.com/python-exercises/python-basic-exercise-6.php
