@@ -11,5 +11,21 @@
 9. Database
 10. Web Application Framework
 
-# Practice exercise
+# download the softwares
+
+## 1. Python
+ https://www.python.org/downloads/release/python-383/
+
+## 2. Visual studio code
+https://code.visualstudio.com/download
+
+2.1 Visual studio code extenstions
+Python
+Ayu - Folders
+
+## 3. git scm
+https://git-scm.com/
+
+# Practice exercise url
 https://www.w3resource.com/python-exercises/python-basic-exercise-6.php
+
