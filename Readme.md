@@ -29,3 +29,14 @@ https://git-scm.com/
 # Practice exercise url
 https://www.w3resource.com/python-exercises/python-basic-exercise-6.php
 
+# 5 -7 -2020
+
+1. Introduction
+2. Variables - simple object (int, float), strings, logical operator, Arithmetic
+3. Condition - simple if, if -else, if -- elif--else(muliple)
+4. Iteration, for, while (range), continue, brek
+5. funtion = definite aggument, varibale length, default arg, lambda, scope
+6. Packages = modules import, from;;import
+7. Colelction - list, dict, tuple, set
+8. Memory Management- Pyobject(name, refcount, value) Garbage Collection - Ref count & Tracing - Mark and sweep
+
