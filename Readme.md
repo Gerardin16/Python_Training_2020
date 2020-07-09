@@ -40,3 +40,7 @@ https://www.w3resource.com/python-exercises/python-basic-exercise-6.php
 7. Colelction - list, dict, tuple, set
 8. Memory Management- Pyobject(name, refcount, value) Garbage Collection - Ref count & Tracing - Mark and sweep
 
+# 9 -7 -2020
+
+9. File Handling
+
