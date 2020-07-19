@@ -4,7 +4,6 @@ class Employee:
     def setName(self, name):
         'sets the name in the object'
         self.name = name
-        ddd = 'dfgdfg'
         return
     
     def printname(self):
@@ -14,7 +13,14 @@ class Employee:
 
 def main():
     emp = Employee()
-    print(emp.__dir__)
+    emp1 = Employee()
+    emp.setName('sdfsd')
+
+    #Employee.setName(emp, 'asdas')
+    #Employee.setName(emp1, 'asdas')
+
+    #emp.setName('sdf')
+    #print(emp.__dir__)
     #emp.setName('stalin')
     #emp.printname() __
 
