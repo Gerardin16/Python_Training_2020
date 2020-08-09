@@ -1,10 +1,11 @@
-## Gmail new mail alert - Pulling Mechanism
+## Gmail new email alert - Pulling Mechanism
 	1. Login into Gmail with user credential(Uname, password)
 	2. User credential should come from Configuration file
 	3. Create separate component of Configuration Manager
 	4. Create other cross cutting components - Logging, Auditing, Configuration
 	5. Every 5 minutes once, need to verify any new mail arrives
 	6. Upon coming new mail in the inbox, raise an alert notification
+	https://www.windowscentral.com/how-create-automated-task-using-task-scheduler-windows-10
 	http://www.quartz-scheduler.org/
 	
 ## File Watcher and Word repeated Count - Push Mechanism
