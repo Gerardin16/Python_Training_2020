@@ -10,7 +10,7 @@
 	2. The specific folder specified in a configuration file
 	3. Create other cross cutting components - Logging, Auditing, Configuration
 	4. As soon as new file arrives, need to identify the repeated word count
-  5. The told word count result should be mail to the recipients defined in the configuration
+   	5.The told word count result should be mail to the recipients defined in the configuration
  
  
  1. Class
