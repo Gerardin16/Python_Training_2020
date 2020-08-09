@@ -1,4 +1,4 @@
-## Gamil new mail alert - Pulling Mechanism 
+## Gmail new mail alert - Pulling Mechanism 
 1. Login into Gmail with user crendential(Uname, password)
 2. User credential should come from Configuration file 
 3. Create seperate component of Configuration Manager
