@@ -17,10 +17,14 @@
  
 	 http://brunorocha.org/python/watching-a-directory-for-file-changes-with-python.html
  
+ ## Assignment must hold the following artifacts
  1. Class
  2. Component
  3. Sequence Diga
  4. Activity 
  5. Use case (Optional)
+ 6. Code, static code analysis, dynamic code analysis
+ 7. Unit Test cases
+ 8. Integration Test cases
 
 
