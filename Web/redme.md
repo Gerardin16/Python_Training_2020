@@ -1,4 +1,4 @@
-##Style can be applied
+## Style can be applied
 
     1. Page level
     2. Web site level
