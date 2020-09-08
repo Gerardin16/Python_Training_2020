@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # User Experience
 
 ## Style can be applied ##
@@ -18,3 +19,11 @@
     3. ```reactjs```
     
 
+=======
+## Style can be applied
+
+    1. Page level
+    2. Web site level
+    3. element level
+    4. custom with element
+>>>>>>> fc8d2cb01676e0072522144d3065d63343a22a3e
