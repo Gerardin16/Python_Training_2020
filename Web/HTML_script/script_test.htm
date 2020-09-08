@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>jQuery Get the Value of an Input Text Box</title>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script>
+
+function myAlertFunction() {
+ var value = document.getElementById("myInput").value;
+ alert(value)
+}
+
+function myShowFunction() {
+ var myvalue = document.getElementById("myInput").value;
+   document.getElementById("demo").innerHTML = myvalue; 
+}
+
+
+</script>
+</head>
+<body>
+    <p>Example for page level-script</p>
+    <input type="text" id="myInput">
+    <p id="demo"></p> 
+    <button type="button" id="myBtn" onclick="myAlertFunction()">Show alert</button>
+    <button type="button" id="myBtn1" onclick="myShowFunction()">Show Value</button>
+</body>
+</html>

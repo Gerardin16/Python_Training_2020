@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # User Experience
 
 ## Style can be applied ##
@@ -10,20 +9,18 @@
     1. Bootstrap
     2. Materialize
 # User Interaction
-## ```javascript```
+## javascript
     1. Page level
     2. Website level
 ## Framework
     1. ```jquery```
     2. ```Angularjs```
     3. ```reactjs```
-    
-
-=======
+ 
 ## Style can be applied
 
     1. Page level
     2. Web site level
     3. element level
     4. custom with element
->>>>>>> fc8d2cb01676e0072522144d3065d63343a22a3e
+
