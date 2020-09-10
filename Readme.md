@@ -13,8 +13,7 @@
 
 # download the software's
 
-## 1. Python
- https://www.python.org/downloads/release/python-383/
+## 1. [Python](https://www.python.org/downloads/release/python-383/)
 
 ## 2. Visual studio code
 https://code.visualstudio.com/download
