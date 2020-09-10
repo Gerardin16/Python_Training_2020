@@ -1,9 +1,9 @@
 # This training covers the following areas
 
-**
-1. Introduction
-2. Condition
-3. Iteration
+
+>1. Introduction
+>2. Condition
+>3. Iteration
 4. Function
 5. Collection
 6. String
@@ -20,12 +20,14 @@
 ## 2. [Visual studio code](https://code.visualstudio.com/download)
 
 2.1 Visual studio code extensions
+
 Python
+
 Ayu - Folders
 
 ## 3. [git scm](https://git-scm.com/)
 
-# [Practice exercise url](https://www.w3resource.com/python-exercises/python-basic-exercise-6.php)
+## 4. [Practice exercise url](https://www.w3resource.com/python-exercises/python-basic-exercise-6.php)
 
 # 5 -7 -2020
 
