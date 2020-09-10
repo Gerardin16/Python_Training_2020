@@ -1,6 +1,6 @@
 # This training covers the following areas
 
-1. Introduction
+**1. Introduction
 2. Condition
 3. Iteration
 4. Function
@@ -9,7 +9,7 @@
 7. File Handling
 8. OOPS
 9. Database
-10. Web Application Framework
+10. Web Application Framework**
 
 # download the software's
 
