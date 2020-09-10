@@ -15,18 +15,15 @@
 
 ## 1. [Python](https://www.python.org/downloads/release/python-383/)
 
-## 2. Visual studio code
-https://code.visualstudio.com/download
+## 2. [Visual studio code] (https://code.visualstudio.com/download)
 
 2.1 Visual studio code extensions
 Python
 Ayu - Folders
 
-## 3. git scm
-https://git-scm.com/
+## 3. [git scm](https://git-scm.com/)
 
-# Practice exercise url
-https://www.w3resource.com/python-exercises/python-basic-exercise-6.php
+# [Practice exercise url](https://www.w3resource.com/python-exercises/python-basic-exercise-6.php)
 
 # 5 -7 -2020
 
@@ -43,9 +40,7 @@ https://www.w3resource.com/python-exercises/python-basic-exercise-6.php
 
 9. File Handling
 
-## Star UM
-http://staruml.io/download
+## [Star UM](http://staruml.io/download)
 
-## Emmet comments
-https://docs.emmet.io/cheat-sheet/
+## [Emmet comments](https://docs.emmet.io/cheat-sheet/)
 
