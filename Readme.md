@@ -1,6 +1,7 @@
 # This training covers the following areas
 
-**1. Introduction
+**
+1. Introduction
 2. Condition
 3. Iteration
 4. Function
@@ -9,13 +10,14 @@
 7. File Handling
 8. OOPS
 9. Database
-10. Web Application Framework**
+10. Web Application Framework
+**
 
 # download the software's
 
 ## 1. [Python](https://www.python.org/downloads/release/python-383/)
 
-## 2. [Visual studio code] (https://code.visualstudio.com/download)
+## 2. [Visual studio code](https://code.visualstudio.com/download)
 
 2.1 Visual studio code extensions
 Python
