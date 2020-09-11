@@ -19,11 +19,8 @@
 
 ## 2. [Visual studio code](https://code.visualstudio.com/download)
 
-2.1 Visual studio code extensions
+- ### [Visual studio code extensions](https://github.com/loyolastalin/CLI_Linux/blob/master/vscode_extentions.md)
 
-Python
-
-Ayu - Folders
 
 ## 3. [git scm](https://git-scm.com/)
 
