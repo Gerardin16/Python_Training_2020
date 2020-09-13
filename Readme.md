@@ -15,9 +15,9 @@
 
 # download the software's
 
-## * [Python](https://www.python.org/downloads/release/python-383/)
+## - [Python](https://www.python.org/downloads/release/python-383/)
 
-## * [Visual studio code](https://code.visualstudio.com/download)
+## - [Visual studio code](https://code.visualstudio.com/download)
 
 - ### [Visual studio code extensions](https://github.com/loyolastalin/CLI_Linux/blob/master/vscode_extentions.md)
 
