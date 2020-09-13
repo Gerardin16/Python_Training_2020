@@ -1,8 +1,15 @@
 # This training covers the following areas
-* [Introduction](/training_artifacts/Chaptor1-Introduction.pptx)
-* [Foundation](/training_artifacts/Chaptor2-Foundation.pptx)
-* [Condition](/training_artifacts/Chaptor3-Conditon.pptx)
-
+* > [Introduction](/training_artifacts/Chaptor1-Introduction.pptx)
+* > [Foundation](/training_artifacts/Chaptor2-Foundation.pptx)
+* > [Condition](/training_artifacts/Chaptor3-Conditon.pptx)
+* > [Iteration](/training_artifacts/Chaptor4-Ireration.pptx)
+* > [Function](/training_artifacts/Chaptor5-Functions.pptx)
+* > [Collection](/training_artifacts/Chaptor6-collections.pptx)
+* > [Memory Management](/training_artifacts/Chaptor7-Memory-Management.pptx)
+* > [File Handling](/training_artifacts/Chaptor8-Files.pptx)
+* > [OOPS](/training_artifacts/Chaptor9-OOPS.pptx)
+* > [Database](/training_artifacts/Chaptor3-Conditon.pptx)
+* > [Web Application Framework](/training_artifacts/Chaptor10-Web-Introduction.pptx)
 
 # download the software's
 
