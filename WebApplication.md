@@ -18,9 +18,13 @@ HTPP Protocal has the following major elements:
 
 HTTP method
   > Get - Gets the content
+  
   > Post - Inserts the record
+  
   > PUT - Update
+  
   > Delelte - delete the record
+  
 Status Code
 
 	- 200* - Success
