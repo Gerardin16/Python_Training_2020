@@ -9,15 +9,18 @@ When the user enters www.siteurl.com, the following steps occurs
 -       URL must follow <<protocal>>://<<site ip address>>:[<<port>>]/page
 e.g http://www.google.com/
 
-HTPP Protocal:
+HTPP Protocal has the following major elements:
 
-Header
-Body
+- Header
+- Body
+- Respone status code
+- Method
+
 HTTP method
-  > Get
-  > Post
-  > PUT
-  > Delet
+  > Get - Gets the content
+  > Post - Inserts the record
+  > PUT - Update
+  > Delelte - delete the record
 Status Code
 
 	- 200* - Success
