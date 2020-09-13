@@ -1,7 +1,7 @@
 # This training covers the following areas
 
 
-> 1. Introduction
+> 1. [Introduction](/training_artifacts/Chaptor1-Introduction.pptx)
 > 2. Condition
 > 3. Iteration
 > 4. Function
