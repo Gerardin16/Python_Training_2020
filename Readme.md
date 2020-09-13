@@ -34,5 +34,6 @@
 ## [NG ROCK](https://ngrok.com/download)
 ## [API URL](https://reqres.in/)
 
-## [Wep Application](WebApplication.md)
+# Navigate For more details
+## [Wep Application Internals](WebApplication.md)
 
