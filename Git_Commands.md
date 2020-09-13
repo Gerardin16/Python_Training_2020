@@ -1,3 +1,4 @@
+```bash
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
 
@@ -24,3 +25,4 @@ git remote add orgin https://github.com/loyolastalin/TestingGit.git
 git remote
 git push orgin master
 git pull orgin master
+```
