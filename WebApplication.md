@@ -19,7 +19,11 @@ HTTP method
   > PUT
   > Delet
 Status Code
+
 	- 200* - Success
+	
 	- 300*- Redirection
+	
 	- 400*-Client side error
+	
 	- 500*- Server side error
