@@ -31,3 +31,5 @@ e.g http://www.google.com/
 - 300*- Redirection
 - 400*-Client side error
 - 500*- Server side error
+
+![Cmdline](Web/images/postman.png)
