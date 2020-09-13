@@ -48,3 +48,24 @@
 
 ## [NG ROCK](https://ngrok.com/download)
 
+# Wep Application
+
+1. https://www.google.com/
+2. Go to the DNS service - to fetch the IP address
+3. Once it fetches the IP address, it figure it out PORT
+4. In order to comminicate from one macine to another machine
+	1. IP address (Where)
+	2. PORT  (How)
+	3. Protocal (How)
+proptocal / ip address:port
+e.g http://www/google.com/
+
+HTPP:
+
+Header
+Body
+HTTP method
+  1. Get
+  2. Post
+  3. PUT
+  4. Delet
