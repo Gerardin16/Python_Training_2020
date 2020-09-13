@@ -6,8 +6,7 @@
 	- IP address (Where)
 	- PORT  (How)
 	- Protocal (How)
--       URL must follow 
-	'''**<<protocal>>://<<site ip address>>:[<<port>>]/page**'''
+-       URL must follow __<<protocal>>://<<site ip address>>:[<<port>>]/page__
 e.g http://www.google.com/
 
 ## HTPP Protocal has the following major elements:
