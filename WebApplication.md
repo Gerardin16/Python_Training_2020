@@ -13,10 +13,10 @@ e.g http://www.google.com/
 
 - Header
 - Body
-- Respone status code
-- [Method](HTTP_method)
+- [Respone status code](#Status_Code)
+- [Method](#HTTP_method)
 
-## HTTP_method
+### HTTP_method
   > Get - Gets the content
   
   > Post - Inserts the record
@@ -25,7 +25,7 @@ e.g http://www.google.com/
   
   > Delelte - delete the record
   
-Status Code
+### Status_Code
 
 - 200* - Success
 - 300*- Redirection
