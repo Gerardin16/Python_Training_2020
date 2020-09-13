@@ -1,7 +1,7 @@
 # This training covers the following areas
-* > [Introduction](/training_artifacts/Chaptor1-Introduction.pptx)
-* > [Foundation](/training_artifacts/Chaptor2-Foundation.pptx)
-* > [Condition](/training_artifacts/Chaptor3- Conditon.pptx)
+* [Introduction](/training_artifacts/Chaptor1-Introduction.pptx)
+* [Foundation](/training_artifacts/Chaptor2-Foundation.pptx)
+* [Condition](/training_artifacts/Chaptor3- Conditon.pptx)
 
 * > [Iteration](/training_artifacts/Chaptor4- Ireration.pptx)
 
