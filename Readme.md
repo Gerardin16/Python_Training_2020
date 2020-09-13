@@ -23,6 +23,7 @@
 
 
 ## 3. [git scm](https://git-scm.com/)
+## 3.1 [tortoisegit](https://tortoisegit.org/download/)
 
 ## 4. [Practice exercise url](https://www.w3resource.com/python-exercises/python-basic-exercise-6.php)
 
