@@ -1,4 +1,4 @@
-When the user enters www.siteurl.com, the following steps occurs 
+## When the user enters www.siteurl.com, the following steps occurs 
 - https://www.siteurl.com/
 - Go to the DNS service - to fetch the IP address corresponding to the www.siteurl.com
 - Finds/figure it out PORT
@@ -9,14 +9,14 @@ When the user enters www.siteurl.com, the following steps occurs
 -       URL must follow <<protocal>>://<<site ip address>>:[<<port>>]/page
 e.g http://www.google.com/
 
-HTPP Protocal has the following major elements:
+## HTPP Protocal has the following major elements:
 
 - Header
 - Body
 - Respone status code
-- Method
+- [Method](HTTP_method)
 
-HTTP method
+## HTTP_method
   > Get - Gets the content
   
   > Post - Inserts the record
