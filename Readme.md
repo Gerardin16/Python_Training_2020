@@ -23,7 +23,7 @@
 * ### [Emmet comments](https://docs.emmet.io/cheat-sheet/)
 * ### [NG ROCK](https://ngrok.com/download)
 * ### [API URL](https://reqres.in/)
-
+* ### [Mock API](https://mocki.io/)
 # Navigate For more details
 ## [Wep Application Internals](WebApplication.md)
 ## [Git bash comments](Git_Commands.md)
