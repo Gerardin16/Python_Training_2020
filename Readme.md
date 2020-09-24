@@ -30,3 +30,11 @@
 
 # Workshop
 ## [Workshop Problem Statement](workshop.md)
+
+# (install Flask)[https://flask.palletsprojects.com/en/1.1.x/installation/]
+```bash
+>pip install virtualenv
+virtualenv env
+.\env\Scripts\activate.bat
+pip install flask
+```
