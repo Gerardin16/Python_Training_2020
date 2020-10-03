@@ -5,9 +5,13 @@
 <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
 <script>
 
+function helloworld() {
+  alert('HELLO WORLD..');
+}
+
 function myAlertFunction() {
  var value = document.getElementById("myInput").value;
- alert(value)
+ alert(value);
 }
 
 function myShowFunction() {
@@ -15,14 +19,25 @@ function myShowFunction() {
    document.getElementById("demo").innerHTML = myvalue; 
 }
 
+function givename(x)
+{
+  return document.getElementById(x) 
+}
 
 </script>
+<style>
+  button
+  {
+    color: blue;
+  }
+</style>
 </head>
 <body>
     <p>Example for page level-script</p>
     <input type="text" id="myInput">
     <p id="demo"></p> 
-    <button type="button" id="myBtn" onclick="myAlertFunction()">Show alert</button>
-    <button type="button" id="myBtn1" onclick="myShowFunction()">Show Value</button>
+    <button type="button" id="myBtn0" onclick="helloworld();">Show alert</button>
+    <button type="button" id="myBtn" onclick="myAlertFunction();">Show alert</button>
+    <button type="button" id="myBtn1" onclick="myShowFunction();">Show Value</button>
 </body>
 </html>

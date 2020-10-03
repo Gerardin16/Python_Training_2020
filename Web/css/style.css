@@ -1,10 +1,14 @@
 p{
-    color: blue;
+    color: yellow;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: larger;
 }
 table
 {
     border: 1;
-    color:red;
+    color: blue;
+}
+.sobana
+{
+    color: green;
 }
