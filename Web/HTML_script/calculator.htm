@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+    <style>
+        body{
+            padding: 0;
+            margin: 0;
+            background-color: crimson;
+        }
+        input{
+            height: 70px;
+            width: 300px;
+            text-align: right;
+            font-size: 35px;
+        }
+        button{
+            height: 30px;
+            width: 50px;
+        }
+        table{
+            border-collapse:collapse;
+            margin-top: 100px;
+        }
+        #zero {
+            width: 115px ;
+        }
+        #equal {
+            height:75px;
+        }
+
+
+    </style>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script>
+$(document).ready(function(){
+    // Get value on button click and show alert
+
+    var previousValue = 0
+    var operator =""
+    $("#myBtn").click(function(){
+        var str = $("#myInput").val();
+        alert(str);
+    });
+
+     $("#btn1").click(function(){
+        setValue("1")
+    });
+
+     $("#btn2").click(function(){
+       setValue("2")
+        
+    });
+
+    $("#btn3").click(function(){
+       setValue("3")        
+    });
+    
+     $("#btnplus").click(function(){
+       
+        
+       if(operator == "+")
+       {
+            currentValue =  parseInt($("#i1").val()); 
+            result = calculate("+", previousValue, currentValue);
+            $("#i1").val(result); 
+            previousValue = result;
+       }
+       else
+       {
+          previousValue =  parseInt($("#i1").val()); 
+          $("#i1").val("0"); 
+       }
+       operator = "+" 
+       //$("#i1").val("0") 
+       console.log(previousValue);
+    });
+
+    $("#btnMinus").click(function(){
+       previousValue =  parseInt($("#i1").val());   
+       $("#i1").val("0") 
+       operator = "-" 
+       console.log(previousValue);
+    });
+
+     $("#btnEqual").click(function(){
+       currentValue =  parseInt($("#i1").val());   
+       result = calculate(operator, previousValue, currentValue);
+       operator = ""
+     /*  if(operator == "+")
+       {
+            result = currentValue + previousValue
+       }*/
+       $("#i1").val(result); 
+       console.log(currentValue);
+    });
+     //$("#myBtn1").click(methodClick);
+
+    function setValue(value) {
+        currentValue = $("#i1").val();
+        if(currentValue != "0")
+        {
+         $("#i1").val( currentValue + value);
+        }
+        else
+        {
+            $("#i1").val( value);
+        }
+        
+    }
+
+    function calculate(operator, a, b) {
+        var result = 0
+        switch (operator) {
+            case "+":
+                result = a+b;
+                break;
+            case "-":
+                result = a-b;
+                break;        
+            default:
+                break;
+        }
+        return result;
+    }
+});
+</script>
+</head>
+<body>
+    
+    <center>
+        <table border="1px" cellpadding="6px">
+            <tr>
+                <td colspan="5"><input id="i1" type="text" value="0"></td>
+            </tr>
+            <tr>
+                <td><button onclick="send ('MC')">MC</button></td>
+                <td><button onclick="send ('MR')">MR</button></td>
+                <td><button onclick="send ('M+')">M+</button></td>
+                <td><button onclick="send ('M-')">M-</button></td>
+                <td><button onclick="send('MS')">MS</button></td>
+            </tr>
+            <tr>
+                <td><button onclick="send('&#8592')">&#8592</button></td>  <! html entity>
+                <td><button onclick="send('CE')">CE</button></td>
+                <td><button onclick="send('C')">C</button></td>
+                <td><button onclick="send('&#177')">&#177</button></td>
+                <td><button onclick="send('&#8730')">&#8730</button></td>
+            </tr>
+            <tr>
+                <td><button onclick="send('7')">7</button></td>  <! html entity>
+                <td><button onclick="send('8')">8</button></td>
+                <td><button onclick="send('9')">9</button></td>
+                <td><button onclick="send('/')">/</button></td>
+                <td><button onclick="send('%')">%</button></td>
+            </tr>
+            <tr>
+                <td><button onclick="send('4')">4</button></td>  
+                <td><button onclick="send('5')">5</button></td>
+                <td><button onclick="send('6')">6</button></td>
+                <td><button onclick="send('*')">*</button></td>
+                <td><button onclick="send('1/x')">1/x</button></td>
+            </tr>
+            <tr>
+                <td><button id="btn1">1</button></td>  
+                <td><button id="btn2">2</button></td>
+                <td><button id="btn3">3</button></td>
+                <td><button id="btnMinus" >-</button></td>
+                <td rowspan="2">
+                    <button id="btnEqual">=</button>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2"><button onclick="send('0')" id="zero">0</button></td>  <! colspan merge>
+                <td><button onclick="send('.')">.</button></td>
+                <td><button id="btnplus">+</button></td>
+            </tr>
+        </table>
+    </center>
+ 
+</body>
+</html>
