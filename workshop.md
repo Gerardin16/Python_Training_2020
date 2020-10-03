@@ -18,10 +18,10 @@
 	 http://brunorocha.org/python/watching-a-directory-for-file-changes-with-python.html
  
  ## Assignment must hold the following artifacts
- 1. Class
- 2. Component
- 3. Sequence Diga
- 4. Activity 
+ 1. [Class](StarUml/classDiagram1.png)
+ 2. [Component](StarUml/ComponentDiagram1.png)
+ 3. [Sequence Diagram](StarUml/Login_Sequence.png)
+ 4. [Activity](StarUml/ActivityDiagram1.png) 
  5. Use case (Optional)
  6. Code, static code analysis, dynamic code analysis
  7. Unit Test cases

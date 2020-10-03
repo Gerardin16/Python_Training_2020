@@ -13,17 +13,28 @@
 
 # download the software's
 
-* ##  [Python](https://www.python.org/downloads/release/python-383/)
-* ##  [Visual studio code](https://code.visualstudio.com/download)
-  - ### [Visual studio code extensions](https://github.com/loyolastalin/CLI_Linux/blob/master/vscode_extentions.md)
-* ## [git scm](https://git-scm.com/)
-*  ##  [tortoisegit](https://tortoisegit.org/download/)
-* ## [Practice exercise url](https://www.w3resource.com/python-exercises/python-basic-exercise-6.php)
-* ## [Star UM](http://staruml.io/download)
-* ## [Emmet comments](https://docs.emmet.io/cheat-sheet/)
-* ## [NG ROCK](https://ngrok.com/download)
-* ## [API URL](https://reqres.in/)
-
+* ###  [Python](https://www.python.org/downloads/release/python-383/)
+* ###  [Visual studio code](https://code.visualstudio.com/download)
+  - #### [Visual studio code extensions](https://github.com/loyolastalin/CLI_Linux/blob/master/vscode_extentions.md)
+* ### [git scm](https://git-scm.com/)
+*  ####  [tortoisegit](https://tortoisegit.org/download/)
+* ### [Practice exercise url](https://www.w3resource.com/python-exercises/python-basic-exercise-6.php)
+* ### [Star UM](http://staruml.io/download)
+* ### [Emmet comments](https://docs.emmet.io/cheat-sheet/)
+* ### [NG ROCK](https://ngrok.com/download)
+* ### [API URL](https://reqres.in/)
+* ### [Mock API](https://mocki.io/)
 # Navigate For more details
 ## [Wep Application Internals](WebApplication.md)
+## [Git bash comments](Git_Commands.md)
 
+# Workshop
+## [Workshop Problem Statement](workshop.md)
+
+# [install Flask](https://flask.palletsprojects.com/en/1.1.x/installation/)
+```bash
+> pip install virtualenv
+> virtualenv env
+> .\env\Scripts\activate.bat
+> pip install flask
+```
