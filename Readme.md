@@ -25,7 +25,7 @@
 * ### [API URL](https://reqres.in/)
 * ### [Mock API](https://mocki.io/)
 * ### [Win Scp](https://winscp.net/eng/download.php)
-
+* ### [Putty](https://www.putty.org/)
 # Navigate For more details
 ## [Wep Application Internals](WebApplication.md)
 ## [Git bash comments](Git_Commands.md)
